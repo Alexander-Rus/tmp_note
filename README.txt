@@ -23,3 +23,11 @@ For now, again just to keep it simple, I would just send me your sections in a g
 ~~~~~~~~~~~~~~~
 Each proposal is expected to be 4 to 5 pages long + references. Each student should upload a PDF copy of the project proposal (submissions should be identical for students on the same team).
 
+
+Capstone
+~~~~~~~~~~~~~~~~~~~~~~
+https://linesight-rl.github.io/linesight/build/html/first_training.html
+
+https://github.com/Linesight-RL/linesight
+
+Elaborate on the “hows” to build the project.  This document should be long and fairly low-level.
