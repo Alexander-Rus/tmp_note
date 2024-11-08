@@ -19,6 +19,13 @@ One of us covers the Overview / Related Work Section
 One of us covers the Experimental Design / Timeline / Evaluation / Individual Responsibilities Section
 Pick whichever one of the above works for you and I'll take the other. I don't have a preference. Just make sure you review my high level proposal and let me know if you agree with all of my thoughts as it relates to the Experimental Design section. Again since we're crunched for time, I think it would be most efficient if we just independently wrote our sections throughout the week as we have the ability, and then if there are any gaps between our two portions we can reconcile them at the end before submitting.
 
+
+
+I completed my section - I'm attaching the final document with my work for your reference. I put it into the latex editor that we'll use for our submission. When you're ready you can just send me a document with all your parts and I can copy them into the latex editor also and append to my section. Let me know if that works for you and let me know if you have any questions on anything I've written. Again, no rush at all I just want you to have maximum visibility on everything I'm working on. If you need we can have a call and finalize but if you're on board with my sections I think you can just send them straight over to me and I can finalize / submit. I tried to get this done before the weekend because I will be busy both tomorrow and Saturday nights. So I just want to optimally consolidate and submit our work sometime on Saturday during the day (i.e. afternoon to early evening) if possible. If that doesn't work we can figure something else out though. Thanks as always and let me know if you need anything.
+
+
+
+
 For now, again just to keep it simple, I would just send me your sections in a google doc and then we can consolidate in the end and put it into a nice overleaf document etc.
 ~~~~~~~~~~~~~~~
 Each proposal is expected to be 4 to 5 pages long + references. Each student should upload a PDF copy of the project proposal (submissions should be identical for students on the same team).
